@@ -5,8 +5,8 @@ Template para vender relojes. 🎉[Demo](https://watch-template.netlify.app/ "De
 2. Css3
 3. js
 
-para los estilos use la metodologia **BEM**
-adicional tiene modo **DARK** y **LIGHT**
+- Para los estilos use la metodologia **BEM**
+- La página tiene modo **DARK** y **LIGHT**
 
 ------------
 
