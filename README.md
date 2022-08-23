@@ -1,6 +1,6 @@
 # Watch E-Commerce
 Template para vender relojes. 🎉[Demo](https://watch-template.netlify.app/ "Demo")
-#### Tecnilogias Usadas
+#### Tecnologias Usadas
 1. Html
 2. Css3
 3. js
